@@ -1,4 +1,11 @@
+<div id="header" align="center">  
+
+[![StoryLegends](https://github.com/LendSpele/lendspele/blob/main/logo.png)](https://www.storylegends.xyz)
+
+[![Website](https://github.com/LendSpele/lendspele/blob/main/modrinth.png)](https://modrinth.com/organization/storylegends)
+
 # StoryLegends
+<div id="header" align="left">
 
 ## RU О проекте
 **StoryLegends** — это Minecraft-сервер и сообщество разработчиков,  
