@@ -1,12 +1,32 @@
-## Hi there 👋
+# StoryLegends
 
-<!--
+## RU О проекте
+**StoryLegends** — это Minecraft-сервер и сообщество разработчиков,  
+объединённых идеей создавать уникальный опыт.
 
-**Here are some ideas to get you started:**
+Мы занимаемся:  
+- Разработкой **модов** для сервера.
+- Работаем на Fabric.
+- Поддержкой и развитием игровых механик.  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Наша цель — построить сообщество игроков, где каждый принимает активную участь.
+Мы хотим создать больше, чем просто сервер.  
+
+---
+
+## ENG About
+**StoryLegends** is a Minecraft server and a community of developers
+united by the idea of creating a unique experience.
+
+We focus on:  
+- Developing **mods** for the server.
+- We are working on the fabric.
+- Supporting and improving gameplay mechanics.  
+
+Our goal is to build a community of players where everyone takes an active part.
+We want to create more than just a server.
+
+---
+
+✨ Добро пожаловать в **StoryLegends**!  
+✨ Welcome to **StoryLegends**!
